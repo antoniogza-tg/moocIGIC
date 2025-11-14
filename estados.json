@@ -9,7 +9,8 @@
 "value":47682
 },
 {"id": "MX-COA",
-"value":2949},
+"value":2949
+},
 {"id": "MX-COL",
 "value":1033
 },
@@ -17,7 +18,8 @@
 "value":1245
 },
 {"id": "MX-GRO",
-"value":2447},
+"value":2447
+},
 {"id": "MX-GUA",
 "value":6290
 },
@@ -93,5 +95,4 @@
 {"id": "MX-BCN",
 "value":4621
 }
-]
 ]
